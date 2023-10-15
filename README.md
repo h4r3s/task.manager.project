@@ -113,7 +113,7 @@ python cli.py delete_task 1
 
 To run the tests, use the following command:
 
-**Advice** TEST ARE NOT AVALIABLE YET -- WIP
+**Advice:** TESTS ARE NOT AVALIABLE YET -- WIP
 
 **Advice:** Patience is key; progress takes time and effort. Keep going!
 
