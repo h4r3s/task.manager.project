@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Task1",
+        "description": "This is task 1",
+        "dueDate": "2021-05-01",
+        "status": "pending"
+    },
+    {
+        "id": 2,
+        "title": "Task2",
+        "description": "This is task 2",
+        "dueDate": "2021-05-02",
+        "status": "Completed"
+    },
+    {
+        "id": 3,
+        "title": "DEMO",
+        "description": "DEMO DESCRIPTION",
+        "dueDate": "2023-04-03",
+        "status": "Pending"
+    },
+    {
+        "id": 5,
+        "title": "DEMO",
+        "description": "DEMO DESCRIPTION",
+        "dueDate": "2023-04-03",
+        "status": "Completed"
+    },
+    {
+        "id": 6,
+        "title": "DEMO",
+        "description": "DEMO DESCRIPTION",
+        "dueDate": "2023-04-03",
+        "status": "Pending"
+    },
+    {
+        "id": 8,
+        "title": "hello2",
+        "description": "its me",
+        "dueDate": "2024-02-04",
+        "status": "Pending"
+    }
+]
