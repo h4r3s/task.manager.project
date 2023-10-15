@@ -76,7 +76,7 @@ python cli.py create_task --title "Task 1" --description "This is task 1" --due-
 Update an existing task:
 
 ```bash
-python cli.py update_task 1 --title "Task 1" --description "This is task 1" --due-date "2021-01-01" --status "Done"
+python cli.py update_task 1 --title "Task 1" --description "This is task 1" --due-date "2021-01-01" --status "Completed"
 ```
 
 Delete a task:
