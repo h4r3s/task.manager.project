@@ -1,3 +1,14 @@
+"""Json Manager controller module.
+
+This module provides a class called JsonManager for handling operations related to JSON files.
+It includes functions for reading, writing, and printing data from a JSON file.
+
+Attributes:
+    JSON_FILE (str): The environment variable specifying the JSON file's path.
+
+Classes:
+    JsonManager: A class containing methods for managing JSON files.
+"""
 import json
 import os
 
