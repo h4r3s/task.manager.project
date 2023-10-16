@@ -2,6 +2,12 @@
 
 A simple command-line interface (CLI) application for managing tasks.
 
+For this project, we are utilizing Python as our programming language. We have integrated the Click library to facilitate Command Line Interface (CLI) interactions. Additionally, we are adopting a modular programming approach to enhance code organization and maintainability
+
+In our approach, we've segmented the code into distinct layers. One layer is responsible for handling JSON data, another for managing tasks, and a third for creating commands for the command-line interface (CLI). Additionally, we've incorporated an environment file to enhance code flexibility and maintainability.
+
+Keeping in mind the principle of "keeping it simple",
+
 ## Table of Contents
 
 - [Installation](#installation)
