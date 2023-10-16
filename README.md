@@ -18,7 +18,7 @@ A simple command-line interface (CLI) application for managing tasks.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Task.manager.git
+git clone https://github.com/h4r3s/task.manager.project.git
 cd Task.manager
 ```
 
@@ -95,6 +95,7 @@ python cli.py delete_task 1
   - `task_manager/`: Main module for the Task Manager application.
     - `cli.py`: Entry point for the CLI application.
     - `.env`: Environment configuration file (if any).
+    - `__init__.py`: Initialization file.
     - `resources/`: Contains data files.
       - `data.json`: Store for task data.
     - `controllers/`: Controllers for managing tasks.
